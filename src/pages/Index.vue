@@ -182,18 +182,60 @@
               </div>
             </div>
 
+            <div class="column mb-4 is-half">
+              <div class="columns">
+                <div class="column is-4 ">
+                  <img src="../assets/img/hue.jpg" alt="" class="image mx-auto">
+                </div>
+                <div class="column is-8">
+                  <h3 class="title is-6">
+                    Hue Cosmetics
+                  </h3>
+                  <ul style="list-style-type:square;padding-left:12px;" class="content is-size-6">
+                    <li>
+                      <p>From an idea to a fully branded e-commerce property in just seven weeks</p>
+                    </li>
+                    <li>
+                      <p>Doubled our client's ROI during the first six weeks of business</p>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+
+            <div class="column mb-4 is-half">
+              <div class="columns">
+                <div class="column is-4 ">
+                  <img src="../assets/img/buco.jpg" alt="" class="image mx-auto">
+                </div>
+                <div class="column is-8">
+                  <h3 class="title is-6">
+                    Buco Coffee
+                  </h3>
+                  <ul style="list-style-type:square;padding-left:12px;" class="content is-size-6">
+                    <li>
+                      <p>Rebranding and redesign lead to increased recognition.</p>
+                    </li>
+                    <li>
+                      <p>Lead to a 28% growth in distribution.</p>
+                    </li>
+                    <li>
+                      <p>Conversion rates increased by 22%</p>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
     </section>
 
-    
-
     <section class="section is-medium">
       <div class="columns is-centered">
         <div class="column is-9">
           <div class="columns is-vcentered is-centered">
-            <div class="column">
+            <div class="column is-5">
               <img src="../assets/img/anima.jpg" alt="" class="image mx-auto">
             </div>
             <div class="column">
@@ -223,7 +265,7 @@
                 live, breathe, and sweat digital commerce.
               </p>
             </div>
-            <div class="column">
+            <div class="column is-5">
               <img src="../assets/img/backpacks.jpg" alt="" class="">
             </div>
           </div>
@@ -235,7 +277,7 @@
       <div class="columns is-centered">
         <div class="column is-9">
           <div class="columns is-vcentered is-centered">
-            <div class="column">
+            <div class="column is-5">
               <img src="../assets/img/todd.jpg" alt="" class="image mx-auto">
             </div>
             <div class="column">
@@ -243,9 +285,29 @@
                 We take responsibility for the success of your business.
               </h2>
               <p class="content">
-                Farhan does not operate like a traditional digital agency. Under our partnering approach, we become an
+                Greatest Media does not operate like a traditional digital agency. Under our partnering approach, we become an
                 extension of your business and act as your in-house digital commerce team.
               </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section mb-8">
+      <div class="columns is-centered">
+        <div class="column is-8">
+          <div class="columns is-vcentered">
+            <div class="column">
+              <h2 class="title is-3 is-capitalized">
+                Multiple Skills, One Team
+              </h2>
+              <p class="content">
+                From design and development to content marketing and paid traffic, together our handpicked team boasts a wide range of skills to meet your needs.
+              </p>
+            </div>
+            <div class="column is-5">
+              <img src="../assets/img/phone.png" alt="" class="">
             </div>
           </div>
         </div>
@@ -261,8 +323,8 @@
           <p class="content has-text-white">
             Want to learn more about us or our case studies? We’d love to hear more. Tell us a bit about yourself and we’ll be in touch with you shortly.
           </p>
-          <a href="mailto:hello@farhan.digital" class="has-text-white has-text-weight-bold is-underlined">
-            hello@farhan.digital
+          <a href="mailto:hello@greatest.media" class="has-text-white has-text-weight-bold is-underlined is-size-6">
+            hello@greatest.media
           </a>
         </div>
       </div>

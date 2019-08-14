@@ -3,14 +3,14 @@
         <div class="navbar-start">
             <div class="navbar-brand">
                 <a class="navbar-item" href="/">
-                    <img src="../assets/img/farhan.svg" alt="" width="115">
+                    <img src="../assets/img/GM.svg" alt="" width="115">
                 </a>
             </div>
         </div>
 
         <div class="navbar-end navbar-menu">
             <p class="navbar-item is-size-7 has-text-weight-bold has-text-black">
-                1800-456-959
+                | hello@greatest.media |
             </p>
         </div>
     </div>
