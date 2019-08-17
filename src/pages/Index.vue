@@ -27,10 +27,10 @@
         <div class="column is-9">
           <div class="columns is-centered">
             <div class="column is-6 has-text-centered mb-8">
-              <h2 class="title is-2-desktop is-4-mobile has-text-black  mb-4 is-capitalized">
+              <h2 class="title is-2-desktop is-4-mobile mb-4 is-capitalized">
                 Ways we help you
               </h2>
-              <p class="content is-size-6 ">
+              <p class="content is-size-6">
                 Consider us your on-demand ecommerce division. At all times, you have a team of <strong>6 to 8 senior
                   specialists</strong> singularly focusing every move, every minute and every penny on one thing:
                 <strong>
@@ -81,7 +81,7 @@
       </div>
     </section>
 
-    <section class="section">
+    <section class="section is-medium has-background-light">
       <div class="columns is-centered">
         <div class="column is-9">
           <h2 class="title is-3 mb-4">
@@ -235,7 +235,7 @@
       <div class="columns is-centered">
         <div class="column is-9">
           <div class="columns is-vcentered is-centered">
-            <div class="column is-5">
+            <div class="column is-6">
               <img src="../assets/img/anima.jpg" alt="" class="image mx-auto">
             </div>
             <div class="column">
@@ -252,7 +252,7 @@
       </div>
     </section>
 
-    <section class="section ">
+    <section class="section is-medium">
       <div class="columns is-centered">
         <div class="column is-9">
           <div class="columns is-vcentered">
@@ -273,11 +273,13 @@
       </div>
     </section>
 
+    
+
     <section class="section is-medium mb-8">
       <div class="columns is-centered">
         <div class="column is-9">
           <div class="columns is-vcentered is-centered">
-            <div class="column is-5">
+            <div class="column">
               <img src="../assets/img/todd.jpg" alt="" class="image mx-auto">
             </div>
             <div class="column">
@@ -407,4 +409,8 @@
   .what-we-do {
     padding: 40px 20px;
   }
+
+  .is-navy {
+    background-color: #090B15;
+}
 </style>
