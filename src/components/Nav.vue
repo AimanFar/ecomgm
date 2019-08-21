@@ -9,9 +9,9 @@
         </div>
 
         <div class="navbar-end navbar-menu">
-            <p class="navbar-item is-size-7 has-text-weight-bold has-text-black">
+            <a class="navbar-item is-size-7 has-text-weight-bold has-text-dark">
                 | hello@greatest.media |
-            </p>
+            </a>
         </div>
     </div>
 </template>

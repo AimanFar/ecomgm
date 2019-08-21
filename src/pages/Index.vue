@@ -1,6 +1,6 @@
 <template>
   <Layout>
-    <section class="section is-medium">   
+    <section class="section is-medium">
       <div class="columns is-centered">
         <div class="column is-9">
           <div class="columns is-vcentered">
@@ -22,7 +22,7 @@
       </div>
     </section>
 
-    <section class="section is-medium">
+    <section class="section is-medium has-background-light">
       <div class="columns is-centered">
         <div class="column is-9">
           <div class="columns is-centered">
@@ -81,7 +81,7 @@
       </div>
     </section>
 
-    <section class="section is-medium has-background-light">
+    <section class="section is-medium  mb-8">
       <div class="columns is-centered">
         <div class="column is-9">
           <h2 class="title is-3 mb-4">
@@ -231,7 +231,7 @@
       </div>
     </section>
 
-    <section class="section is-medium">
+    <section class="section">
       <div class="columns is-centered">
         <div class="column is-9">
           <div class="columns is-vcentered is-centered">
@@ -273,11 +273,185 @@
       </div>
     </section>
 
-    
+    <section class="section is-medium has-background-light">
+      <div class="columns is-centered">
+        <div class="column is-6 has-text-centered mb-8">
+          <h2 class="title has-text-dark is-2-desktop is-4-mobile mb-4 is-capitalized">
+            Some of our expertise
+          </h2>
+          <p class="content is-size-6">
+            From design and development to content marketing and paid traffic, together our handpicked team boasts a
+            wide range of skills to meet your needs. Here is a glimpse of our skills and capabilities:
+          </p>
+        </div>
+      </div>
+      <div class="columns is-centered">
+        <div class="column is-10">
+          <div class="columns is-centered">
+            <div class="column">
+              <div class="card has-background-grey what-we-do">
+                <h3 class="has-text-weight-bold has-text-white title is-size-5">
+                  Strategy
+                </h3>
+                <ul class="has-text-white is-size-6 is-capitalized" style="list-style:square;margin-left:1rem;">
+                  <li>
+                    <p class="">
+                      Digital Marketing Strategy
+                    </p>
+                  </li>
+                  <li>
+                    <p class="">
+                      Media Planning
+                    </p>
+                  </li>
+                  <li>
+                    <p class="">
+                      Paid Ads Audit
+                    </p>
+                  </li>
+                  <li>
+                    <p class="">
+                      Social Media Strategy
+                    </p>
+                  </li>
+                  <li>
+                    <p class="">
+                      SEO &amp; SEM Strategy
+                    </p>
+                  </li>
+                  <li>
+                    <p class="">
+                      Campaign Analytics
+                    </p>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="column">
+              <div class="card has-background-dark what-we-do">
+                <h3 class="has-text-weight-bold has-text-white title is-size-5">
+                  Web Design &amp; Development
+                </h3>
+                <ul class="has-text-white is-size-6 is-capitalized" style="list-style:square;margin-left:1rem;">
+                  <li>
+                    <p class="">
+                      UI/UX Design
+                    </p>
+                  </li>
+                  <li>
+                    <p class="">
+                      Web Development
+                    </p>
+                  </li>
+                  <li>
+                    <p class="">
+                      E-Commerce/Shopify/Woo
+                    </p>
+                  </li>
+                  <li>
+                    <p class="">
+                      Custom CMS
+                    </p>
+                  </li>
+                  <li>
+                    <p class="">
+                      Web Application
+                    </p>
+                  </li>
+                  <li>
+                    <p class="">
+                      Mobile Apps
+                    </p>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="column">
+              <div class="card has-background-grey what-we-do">
+                <h3 class="has-text-weight-bold has-text-light title is-size-5">
+                  Digital Media
+                </h3>
+                <ul class="has-text-white is-size-6 is-capitalized" style="list-style:square;margin-left:1rem;">
+                  <li>
+                    <p class="">
+                      Digital Marketing Campaign
+                    </p>
+                  </li>
+                  <li>
+                    <p class="">
+                      Paid Search/Display/Social
+                    </p>
+                  </li>
+                  <li>
+                    <p class="">
+                      SEO &amp; SEM Optimization
+                    </p>
+                  </li>
+                  <li>
+                    <p class="">
+                      Audits &amp; Conversion Optimization
+                    </p>
+                  </li>
+                  <li>
+                    <p class="">
+                     Inbound Marketing
+                    </p>
+                  </li>
+                  <li>
+                    <p class="">
+                      Email Marketing
+                    </p>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="column">
+              <div class="card has-background-dark what-we-do">
+                <h3 class="has-text-weight-bold has-text-light title is-size-5">
+                  Social Media
+                </h3>
+                <ul class="has-text-white is-size-6 is-capitalized" style="list-style:square;margin-left:1rem;">
+                  <li>
+                    <p class="">
+                      Influencer Campaign
+                    </p>
+                  </li>
+                  <li>
+                    <p class="">
+                      Content Creation
+                    </p>
+                  </li>
+                  <li>
+                    <p class="">
+                      Paid Social Campaign
+                    </p>
+                  </li>
+                  <li>
+                    <p class="">
+                      Content Management
+                    </p>
+                  </li>
+                  <li>
+                    <p class="">
+                      Editorial
+                    </p>
+                  </li>
+                  <li>
+                    <p class="">
+                      Graphic Assets
+                    </p>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
 
     <section class="section is-medium mb-8">
       <div class="columns is-centered">
-        <div class="column is-9">
+        <div class="column is-10">
           <div class="columns is-vcentered is-centered">
             <div class="column">
               <img src="../assets/img/todd.jpg" alt="" class="image mx-auto">
@@ -287,7 +461,8 @@
                 We take responsibility for the success of your business.
               </h2>
               <p class="content">
-                Greatest Media does not operate like a traditional digital agency. Under our partnering approach, we become an
+                Greatest Media does not operate like a traditional digital agency. Under our partnering approach, we
+                become an
                 extension of your business and act as your in-house digital commerce team.
               </p>
             </div>
@@ -296,34 +471,17 @@
       </div>
     </section>
 
-    <section class="section mb-8">
-      <div class="columns is-centered">
-        <div class="column is-8">
-          <div class="columns is-vcentered">
-            <div class="column">
-              <h2 class="title is-3 is-capitalized">
-                Multiple Skills, One Team
-              </h2>
-              <p class="content">
-                From design and development to content marketing and paid traffic, together our handpicked team boasts a wide range of skills to meet your needs.
-              </p>
-            </div>
-            <div class="column is-5">
-              <img src="../assets/img/phone.png" alt="" class="">
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
 
-    <section class="section is-medium contact ">
+
+    <section class="section is-medium has-background-grey-dark">
       <div class="columns is-centered">
         <div class="column is-5 has-text-centered">
           <h2 class="title is-4-mobile is-size-2 is-capitalized has-text-white">
             Are you ready to start a campaign?
           </h2>
           <p class="content has-text-white">
-            Want to learn more about us or our case studies? We’d love to hear more. Tell us a bit about yourself and we’ll be in touch with you shortly.
+            Want to learn more about us or our case studies? We’d love to hear more. Tell us a bit about yourself and
+            we’ll be in touch with you shortly.
           </p>
           <a href="mailto:hello@greatest.media" class="has-text-white has-text-weight-bold is-underlined is-size-6">
             hello@greatest.media
@@ -339,15 +497,16 @@
 <script>
   export default {
     metaInfo: {
-      title: 'E-Commerce Agency'
+      title: 'E-Commerce Conversion Experts '
     }
   }
 </script>
 
 <style lang="scss" scoped>
   .contact {
-    background-color:#1A1D31;
+    background-color: #1A1D31;
   }
+
   .content {
     color: #000;
     font-family: 'Jost';
@@ -412,5 +571,5 @@
 
   .is-navy {
     background-color: #090B15;
-}
+  }
 </style>

@@ -1,27 +1,7 @@
 <template>
   <Layout>
-    <div class="hero is-large">
-        <div class="hero-head">
-            <nav class="navbar">
-                <div class="container">
-                    <div class="navbar-brand">
-                        <a href="/" class="navbar-item">
-                            <img src="../assets/img/farhan.svg" alt="" width="130">
-                        </a>
-                    </div>
-                    <div class="navbar-end">
-                      <div class="navbar-item">
-                        <a href="">
-                          studio@farhan.digital
-                        </a>
-                      </div>
-                    </div>
-                </div>
-            </nav>
-        </div>
-    </div>
-
-    <section class="section">
+    
+    <section class="section is-large">
       <div class="columns is-centered">
         <div class="column is-9-desktop">
           <h2 class="title is-4 is-size-3-desktop mb-4">
@@ -50,6 +30,27 @@
         </div>
       </div>
     </section>
+
+    <section class="section mb-8">
+      <div class="columns is-centered">
+        <div class="column is-8">
+          <div class="columns is-vcentered">
+            <div class="column">
+              <h2 class="title is-3 is-capitalized">
+                Multiple Skills, One Team
+              </h2>
+              <p class="content">
+                From design and development to content marketing and paid traffic, together our handpicked team boasts a
+                wide range of skills to meet your needs.
+              </p>
+            </div>
+            <div class="column is-5">
+              <img src="../assets/img/phone.png" alt="" class="">
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
     
   </Layout>
 </template>
@@ -61,3 +62,10 @@ export default {
   }
 }
 </script>
+
+<style>
+  .mx-auto {
+    margin-right: auto;
+    margin-left : auto;
+  }
+</style>

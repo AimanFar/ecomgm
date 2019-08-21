@@ -1,5 +1,4 @@
 <template>
-
   <div class="body has-text-black has-text-weight-light">
     <Nav/>
     <slot/>

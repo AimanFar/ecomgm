@@ -17,7 +17,7 @@ export default {
 </script>
 
 <style>
-.foot {
-    background-color: #090B15;
-}
+    .foot {
+        background-color: #090B15;
+    }
 </style>
